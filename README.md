@@ -1,5 +1,5 @@
 ## Motion_Path_To_Curve_Blender_Addon
-### Аддон для Blender для преобразования Motion Paths в Curves [Аддон](https://github.com/VitalyFan/Motion_Path_To_Curve_Blender_Addon/blob/main/AddonMP.py)
+### Blender Аддон для преобразования Motion Paths в Curves [Аддон](https://github.com/VitalyFan/Motion_Path_To_Curve_Blender_Addon/blob/main/AddonMP.py)
 Аддон позволяет преобразовать Motion Paths в кривые и сделать их пригодными для дальнейшего редактирования
 <hr/>
 Краткая инструкция по установке:
