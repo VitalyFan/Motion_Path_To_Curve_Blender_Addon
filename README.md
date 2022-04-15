@@ -18,6 +18,7 @@
 
 <img src ="https://user-images.githubusercontent.com/78021829/162607918-441f1828-abdb-4fb2-a03b-f6d315280414.png" width="700"/>
 ***
+
     def image_callback_color(data):
         global color, figure
 
